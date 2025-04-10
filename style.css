@@ -301,7 +301,8 @@ form button:hover {
 }
 .event-item h4 {
     background-color: #ffffff97;
-    padding: 50px;
+    padding: 30px;
+    text-align: center;
     border-radius: 10px;
     font-size: 1.3rem;
     color: #103E0F;
