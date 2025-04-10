@@ -84,7 +84,7 @@ body{
 .welcome {
     border-color: #103E0F;
     border-style: solid;
-    border-width: 10px;
+    border-width: 5px;
     background-color: rgb(255, 225, 170); 
     padding: 20px; 
     border-radius: 30px;  
@@ -189,7 +189,7 @@ body{
     background-color: #ffeeb2;
     border-color: #103E0F;
     border-style: solid;
-    border-width: 10px;
+    border-width: 5px;
     text-align: center;
     padding: 20px;
     width: 80%;
@@ -233,6 +233,9 @@ body{
      width: 100%;
     border-spacing: 0 10px; 
     color: #103E0F;
+    border-color: #103E0F;
+    border-style: solid;
+    border-width: 5px;
   } 
 
 /* This is the form */
