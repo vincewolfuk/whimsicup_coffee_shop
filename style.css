@@ -281,6 +281,9 @@ form button:hover {
     padding: 20px; 
     width: 800px;
     margin: 20px auto;  
+    width: 90%;
+    max-width: 800px;
+    
 }
 .event-item {
     background-color: #ffe4b5;
