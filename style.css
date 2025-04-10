@@ -296,7 +296,10 @@ form button:hover {
 }
 .event-item {
     background-color: #ffe4b5;
-    /* justify-content: center;  */
+    border-color: #103E0F;
+    border-style: solid;
+    border-width: 10px;
+    justify-content: center;  
     padding: 20px;
     width: 90%;
     margin: 20px 0;
