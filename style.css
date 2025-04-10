@@ -82,8 +82,11 @@ body{
 /* This is the description for the of the shop and other pages*/
 
 .welcome {
+    border-color: #103E0F;
+    border-style: solid;
+    border-width: 10px;
     background-color: rgb(255, 225, 170); 
-    padding: 40px; 
+    padding: 20px; 
     border-radius: 30px;  
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     max-width: 800px;  
