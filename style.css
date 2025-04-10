@@ -300,6 +300,9 @@ form button:hover {
     margin: 5px 0;
 }
 .event-item h4 {
+    background-color: #ffffff97;
+    padding: 50px;
+    border-radius: 10px;
     font-size: 1.3rem;
     color: #103E0F;
      margin-bottom: 40px; 
